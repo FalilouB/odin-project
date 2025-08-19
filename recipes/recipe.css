@@ -1,0 +1,44 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: tan;
+    color: red;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.main {
+    width: 800px;
+    margin: 25px auto;
+    border: 10px double black;
+    padding: 15px;
+}
+
+
+img {
+    padding: 0;
+    border: 10px double black;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.n1 {
+    text-align: center;
+}
+
+h2 {
+    padding: 10px;
+}
+
+li,
+p {
+    line-height: 1.5;
+}
+
+p {
+    padding: 0 80px 0 25px;
+}

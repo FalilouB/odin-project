@@ -1,11 +1,15 @@
 # odin-project
 
-Creating a basic recipe website using only HTML
+1) Creating a basic recipe website using html
+    Foundational concepts:
+        - elements and tags
+        - boilerplate
+        - text and lists
+        - links and images
 
-Foundational concepts:
-
-1) elements and tags
-2) boilerplate
-3) text and lists
-4) links and images
-5) commit messages (proper)
+2) Adding css
+    Foundational concepts:
+        - selectors
+        - cascade
+        - box model
+        - block and inline

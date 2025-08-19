@@ -1,0 +1,32 @@
+* {
+    background-color: tan;
+    color: black;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: auto;
+    margin: 10px;
+    border: 15px double black;
+}
+
+.n1 {
+    display: inline-block;
+    margin: 50px 180px;
+}
+
+ul, 
+li a {
+    list-style: none;
+    text-decoration: none;
+}
